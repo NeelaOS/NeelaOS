@@ -239,4 +239,3 @@ A restore point is taken before every update, so you can always go back.
 - Fonts: **Montserrat** and **Space Grotesk** (SIL Open Font License)
 
 <p align="center"><sub>Made with 💙 for the love of wind.</sub></p>
-# NeelaOS
